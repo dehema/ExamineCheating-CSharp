@@ -1,0 +1,15 @@
+D:\Project\C#\ExamineCheating-CSharp\ExamineCheating-CSharp\bin\Debug\netcoreapp3.1\ExamineCheating-CSharp.exe
+D:\Project\C#\ExamineCheating-CSharp\ExamineCheating-CSharp\bin\Debug\netcoreapp3.1\ExamineCheating-CSharp.deps.json
+D:\Project\C#\ExamineCheating-CSharp\ExamineCheating-CSharp\bin\Debug\netcoreapp3.1\ExamineCheating-CSharp.runtimeconfig.json
+D:\Project\C#\ExamineCheating-CSharp\ExamineCheating-CSharp\bin\Debug\netcoreapp3.1\ExamineCheating-CSharp.runtimeconfig.dev.json
+D:\Project\C#\ExamineCheating-CSharp\ExamineCheating-CSharp\bin\Debug\netcoreapp3.1\ExamineCheating-CSharp.dll
+D:\Project\C#\ExamineCheating-CSharp\ExamineCheating-CSharp\bin\Debug\netcoreapp3.1\ExamineCheating-CSharp.pdb
+D:\Project\C#\ExamineCheating-CSharp\ExamineCheating-CSharp\obj\Debug\netcoreapp3.1\ExamineCheating-CSharp.AssemblyInfoInputs.cache
+D:\Project\C#\ExamineCheating-CSharp\ExamineCheating-CSharp\obj\Debug\netcoreapp3.1\ExamineCheating-CSharp.AssemblyInfo.cs
+D:\Project\C#\ExamineCheating-CSharp\ExamineCheating-CSharp\obj\Debug\netcoreapp3.1\ExamineCheating-CSharp.csproj.CoreCompileInputs.cache
+D:\Project\C#\ExamineCheating-CSharp\ExamineCheating-CSharp\obj\Debug\netcoreapp3.1\ExamineCheating-CSharp.dll
+D:\Project\C#\ExamineCheating-CSharp\ExamineCheating-CSharp\obj\Debug\netcoreapp3.1\ExamineCheating-CSharp.pdb
+D:\Project\C#\ExamineCheating-CSharp\ExamineCheating-CSharp\obj\Debug\netcoreapp3.1\ExamineCheating-CSharp.genruntimeconfig.cache
+D:\Project\C#\ExamineCheating-CSharp\ExamineCheating-CSharp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Project\C#\ExamineCheating-CSharp\ExamineCheating-CSharp\obj\Debug\netcoreapp3.1\ExamineCheating-CSharp.csproj.CopyComplete
+D:\Project\C#\ExamineCheating-CSharp\ExamineCheating-CSharp\obj\Debug\netcoreapp3.1\ExamineCheating-CSharp.csprojAssemblyReference.cache

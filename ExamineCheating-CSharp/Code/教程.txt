@@ -1,0 +1,5 @@
+﻿1.打开做题的页面
+2.先复制【CreateReq-JQuery.js】粘贴到控制台，回车，获取欺骗请求的代码
+3.复制第二部输出的代码粘贴到控制台，回车，获取返回的正确答案（json数据不能直接使用）
+4.复制正确答案的json到【AnswerResponse.json】文件，F5运行项目，此时能自动选择选项并提交的代码已经生成到了【GeneratingCode.js】文件中
+5.复制【GeneratingCode.js】文件中的代码到控制台，回车！
